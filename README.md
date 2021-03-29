@@ -7,6 +7,8 @@ Instruction:
 
     pip install tkinter
     
+    ------
+    
     For Ubuntu:
     
     sudo apt-get install python-tk
@@ -15,7 +17,17 @@ Instruction:
     
     sudo apt-get install python3-tk
     
+    ------
+    
+    For Manjaro and others:
+    
+    sudo pacman -S tk
+    
+    ------
+    
     pip install time
+    
+    ------
     
     pip install keyboard
 
