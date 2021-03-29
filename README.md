@@ -1,5 +1,5 @@
 # Unversal-Spammer
-This Pythin Script can Spam anything and anywhere
+This Python Script can Spam anything and anywhere
 
 Instruction:
 
