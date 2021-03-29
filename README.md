@@ -7,6 +7,14 @@ Instruction:
 
     pip install tkinter
     
+    For Ubuntu:
+    
+    sudo apt-get install python-tk
+    
+    And for Ubuntu Python Version 3:
+    
+    sudo apt-get install python3-tk
+    
     pip install time
     
     pip install keyboard
