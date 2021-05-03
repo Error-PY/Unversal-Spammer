@@ -4,9 +4,15 @@ This Python Script can Spam anything and anywhere
 Instruction:
 
 0:  Have python and:
+    
+    ------
+    For Windows and MacOS:
 
     pip install tkinter
     
+    pip install time
+    
+    pip install keyboard
     ------
     
     For Ubuntu:
@@ -24,12 +30,7 @@ Instruction:
     sudo pacman -S tk
     
     ------
-    
-    pip install time
-    
-    ------
-    
-    pip install keyboard
+
 
 1:  Run the Universal_Spammer.py
 
